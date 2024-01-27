@@ -1,5 +1,8 @@
 V projektu jsou použitá data stažená z webové stránky Českého statistického úřadu podle vlastního výběru na adrese:
+
 https://vdb.czso.cz/vdbvo2/faces/index.jsf?page=statistiky#katalog=31032
+
+
 Použité tabulky: 1. Cizinci v ČR v roce 2022
 	2. Počet cizinců podle pohlaví
 	3. Vývoj počtu cizinců podle krajů
