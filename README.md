@@ -4,7 +4,8 @@ https://vdb.czso.cz/vdbvo2/faces/index.jsf?page=statistiky#katalog=31032
 
 
 Použité tabulky: 
-	1. Cizinci v ČR v roce 2022
+	
+ 	1. Cizinci v ČR v roce 2022
 
 	2. Počet cizinců podle pohlaví
  
